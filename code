@@ -1,0 +1,14 @@
+package access.modifire;
+
+public class AccessModifire 
+{
+    public static void main(String[] args) 
+    {
+        string name ("dog") ;
+         
+         {System.out.println ("dog");
+         
+         }
+    }
+    
+}
